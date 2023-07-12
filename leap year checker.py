@@ -10,4 +10,4 @@ def is_leap_year(year):
     else:
         print('Not Leap Year')
 
-is_leap_year(2051)
+is_leap_year(2052)
